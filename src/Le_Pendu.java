@@ -5,7 +5,7 @@ import java.util.Scanner;
  * LE JEUX DU PENDU EN JAVA 1.8
  * FORMATION JAVA & GIT
  * VERSION 2
- * CLEAN CODE AND FORMAT CODE by IntelliJ IDEA
+ * CLEAN AND FORMAT CODE by IntelliJ IDEA
  * */
 
 class Le_Pendu{
