@@ -1,6 +1,12 @@
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+ * LE JEUX DU PENDU EN JAVA 1.8
+ * FORMATION JAVA & GIT
+ * VERSION 1
+ * */
+
 class Le_Pendu{
     public static void main(String[] args){
 
